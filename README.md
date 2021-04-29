@@ -6,6 +6,6 @@ I make random stuff and give up on them halfway so don't expect much :^)
 - I am currently making discord bots and working on an opencv ai project
 - I make stuff in languages I don't know and hope that I am doing stuff right by researching shit and putting it together
 - I am an idiot ~~i dont even know what im making this~~
-- My discord is fabulous#7777, in case you want to contact me 
+- My discord is bullets.#7777, in case you want to contact me 
 
-![fxbulous stats](https://github-readme-stats.vercel.app/api?username=fxbulous&theme=dark&show_icons=true)
+![bulletsabbath stats](https://github-readme-stats.vercel.app/api?username=bulletsabbath&theme=dark&show_icons=true)
