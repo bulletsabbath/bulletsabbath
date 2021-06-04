@@ -1,14 +1,14 @@
 ### Heya 👋
 
-I'm Fab, a 13 year old with nothing better to do :D
+I'm Fab, a 14 year old with nothing better to do :D
 I've a bit of an attention problem so don't expect me to finish my projects lmao
 
 -----------------
 
 - I'm currently working on discord bots and whatever else I find interesting
-- I'm currently learning C++
+- I'm currently learning Kotlin and sometimes C++ if I'm not lazy 👀
 - I play a shit ton of games :D
-- My discord is bullets.#7777
+- My discord is bullets.#8659
 
 -----------------
 
