@@ -8,7 +8,7 @@ I've a bit of an attention problem so don't expect me to finish my projects lmao
 - I'm currently working on discord bots and whatever else I find interesting
 - I'm currently learning Kotlin and sometimes C++ if I'm not lazy 👀
 - I play a shit ton of games :D
-- My discord is bullets.#0151
+- My discord is marsmustdie#0151
 
 -----------------
 
